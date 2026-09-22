@@ -1,4 +1,4 @@
-# CodeLens
+# CodeAnalyser
 
 Java source-code analysis with a Spring Boot + Maven backend and futuristic React UI.
 
