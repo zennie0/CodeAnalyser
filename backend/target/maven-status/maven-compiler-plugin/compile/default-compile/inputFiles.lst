@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Documents\CodeAnalyser\backend\src\main\java\com\codeinsight\analyzer\CodeAnalysisService.java
+C:\Users\Lenovo\Documents\CodeAnalyser\backend\src\main\java\com\codeinsight\analyzer\EmptyCatchAnalyzer.java
+C:\Users\Lenovo\Documents\CodeAnalyser\backend\src\main\java\com\codeinsight\analyzer\LongMethodAnalyzer.java
+C:\Users\Lenovo\Documents\CodeAnalyser\backend\src\main\java\com\codeinsight\analyzer\NestedLoopAnalyzer.java
+C:\Users\Lenovo\Documents\CodeAnalyser\backend\src\main\java\com\codeinsight\analyzer\PotentialErrorAnalyzer.java
+C:\Users\Lenovo\Documents\CodeAnalyser\backend\src\main\java\com\codeinsight\analyzer\SpaceComplexityAnalyzer.java
+C:\Users\Lenovo\Documents\CodeAnalyser\backend\src\main\java\com\codeinsight\analyzer\TimeComplexityAnalyzer.java
+C:\Users\Lenovo\Documents\CodeAnalyser\backend\src\main\java\com\codeinsight\CodeInsightApplication.java
+C:\Users\Lenovo\Documents\CodeAnalyser\backend\src\main\java\com\codeinsight\controller\AnalysisController.java
+C:\Users\Lenovo\Documents\CodeAnalyser\backend\src\main\java\com\codeinsight\dto\AnalysisResponse.java
+C:\Users\Lenovo\Documents\CodeAnalyser\backend\src\main\java\com\codeinsight\dto\Finding.java
+C:\Users\Lenovo\Documents\CodeAnalyser\backend\src\main\java\com\codeinsight\dto\SyntaxError.java
